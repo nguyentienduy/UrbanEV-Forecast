@@ -1,0 +1,73 @@
+A,B,subset,metric,diff_A_minus_B,ci_lo,ci_hi,days
+C4 ACI level=size update=day gamma=0.5,C3 static (no adaptation),all test,coverage,-0.017594991364421417,-0.030142567005693087,-0.0049649579415339375,54
+C4 ACI level=size update=day gamma=0.5,C3 static (no adaptation),all test,scaled interval score,-0.00513380372911013,-0.013228918377922958,0.003233486595369958,54
+C4 ACI level=size update=day gamma=0.5,C3 static (no adaptation),Spring Festival,coverage,-0.04030964717493215,-0.07186035035775969,-0.013165402171231208,7
+C4 ACI level=size update=day gamma=0.5,C3 static (no adaptation),Spring Festival,scaled interval score,-0.03643452569949137,-0.056827737816944814,-0.01603132418344428,7
+C4 ACI level=size update=day gamma=0.5,C3 static (no adaptation),normal,coverage,-0.01761171519618575,-0.029885923116912624,-0.005165942537420844,47
+C4 ACI level=size update=day gamma=0.5,C3 static (no adaptation),normal,scaled interval score,-0.0012575182579112677,-0.008858657356409592,0.007935211420356605,47
+C4 ACI level=size update=day gamma=0.5,C3 + recent widening (Step 4),all test,coverage,-0.003438239621313887,-0.012773559937312096,0.006229410541802594,54
+C4 ACI level=size update=day gamma=0.5,C3 + recent widening (Step 4),all test,scaled interval score,-0.04397896129785999,-0.06495121958170642,-0.024116942452797833,54
+C4 ACI level=size update=day gamma=0.5,C3 + recent widening (Step 4),Spring Festival,coverage,-0.03441894892672095,-0.05351128793486306,-0.017271157167530225,7
+C4 ACI level=size update=day gamma=0.5,C3 + recent widening (Step 4),Spring Festival,scaled interval score,-0.05121813054291462,-0.08768908051053073,-0.014052805826663961,7
+C4 ACI level=size update=day gamma=0.5,C3 + recent widening (Step 4),normal,coverage,0.0005205672723734462,-0.009341730007617234,0.010037170991472,47
+C4 ACI level=size update=day gamma=0.5,C3 + recent widening (Step 4),normal,scaled interval score,-0.047098642252356826,-0.07140095518610164,-0.0237899174124499,47
+C4 ACI level=size update=hour gamma=0.02,C3 static (no adaptation),all test,coverage,-0.01737910189982729,-0.02830980537964562,-0.006859687839826013,54
+C4 ACI level=size update=hour gamma=0.02,C3 static (no adaptation),all test,scaled interval score,-0.009687529496834489,-0.017912853218392158,-0.00017830051226205536,54
+C4 ACI level=size update=hour gamma=0.02,C3 static (no adaptation),Spring Festival,coverage,-0.03855169010609425,-0.06619787811497656,-0.01159634838391315,7
+C4 ACI level=size update=hour gamma=0.02,C3 static (no adaptation),Spring Festival,scaled interval score,-0.04075181085161088,-0.0626296663069453,-0.016960628697801797,7
+C4 ACI level=size update=hour gamma=0.02,C3 static (no adaptation),normal,coverage,-0.01737332457612688,-0.02797770815760935,-0.006847895652744395,47
+C4 ACI level=size update=hour gamma=0.02,C3 static (no adaptation),normal,scaled interval score,-0.005768941970515531,-0.013538410282679074,0.0042474080898830665,47
+C4 ACI level=size update=hour gamma=0.02,C3 + recent widening (Step 4),all test,coverage,-0.0032223501567197597,-0.011074729738373952,0.004858312543977479,54
+C4 ACI level=size update=hour gamma=0.02,C3 + recent widening (Step 4),all test,scaled interval score,-0.048532687065584355,-0.06925759740399771,-0.029980887643175292,54
+C4 ACI level=size update=hour gamma=0.02,C3 + recent widening (Step 4),Spring Festival,coverage,-0.03266099185788305,-0.04851421786331113,-0.016067573402417965,7
+C4 ACI level=size update=hour gamma=0.02,C3 + recent widening (Step 4),Spring Festival,scaled interval score,-0.05553541569503414,-0.09217046569616881,-0.017040348901462943,7
+C4 ACI level=size update=hour gamma=0.02,C3 + recent widening (Step 4),normal,coverage,0.0007589578924323141,-0.007102150669747916,0.008804029235208472,47
+C4 ACI level=size update=hour gamma=0.02,C3 + recent widening (Step 4),normal,scaled interval score,-0.0516100659649611,-0.07505276941929054,-0.02961240534062465,47
+C4 ACI level=global update=day gamma=0.5,C3 static (no adaptation),all test,coverage,-0.017646964754045927,-0.02983352523507964,-0.005284794185377089,54
+C4 ACI level=global update=day gamma=0.5,C3 static (no adaptation),all test,scaled interval score,-0.005419927903812691,-0.011760948150648268,0.0006575606461266054,54
+C4 ACI level=global update=day gamma=0.5,C3 static (no adaptation),Spring Festival,coverage,-0.040957315568714535,-0.0715827781889958,-0.014237910189982788,7
+C4 ACI level=global update=day gamma=0.5,C3 static (no adaptation),Spring Festival,scaled interval score,-0.03483282738494901,-0.05383350279435813,-0.015850990206524026,7
+C4 ACI level=global update=day gamma=0.5,C3 static (no adaptation),normal,coverage,-0.017694422146002094,-0.02951785237095653,-0.00555213305793257,47
+C4 ACI level=global update=day gamma=0.5,C3 static (no adaptation),normal,scaled interval score,-0.0017219302475349983,-0.0068841249525271675,0.003742851305292477,47
+C4 ACI level=global update=day gamma=0.5,C3 + recent widening (Step 4),all test,coverage,-0.0034902130109383997,-0.012761366180515576,0.0057137745474317115,54
+C4 ACI level=global update=day gamma=0.5,C3 + recent widening (Step 4),all test,scaled interval score,-0.04426508547256254,-0.0658003737884074,-0.024379146321655856,54
+C4 ACI level=global update=day gamma=0.5,C3 + recent widening (Step 4),Spring Festival,coverage,-0.035066617320503334,-0.053201332346410064,-0.019860288675055522,7
+C4 ACI level=global update=day gamma=0.5,C3 + recent widening (Step 4),Spring Festival,scaled interval score,-0.04961643222837227,-0.08547729312454594,-0.013974945464266746,7
+C4 ACI level=global update=day gamma=0.5,C3 + recent widening (Step 4),normal,coverage,0.0004378603225571043,-0.008886602001918143,0.009707674779737616,47
+C4 ACI level=global update=day gamma=0.5,C3 + recent widening (Step 4),normal,scaled interval score,-0.047563054241980554,-0.07356587313461091,-0.024368742732002163,47
+C4 ACI level=global update=hour gamma=0.02,C3 static (no adaptation),all test,coverage,-0.017483048679076314,-0.02833609192093648,-0.007104062719887419,54
+C4 ACI level=global update=hour gamma=0.02,C3 static (no adaptation),all test,scaled interval score,-0.007849766393092336,-0.014483750353624127,-0.001232604883644883,54
+C4 ACI level=global update=hour gamma=0.02,C3 static (no adaptation),Spring Festival,coverage,-0.04027880582284727,-0.06758650999259808,-0.014463052060202328,7
+C4 ACI level=global update=hour gamma=0.02,C3 static (no adaptation),Spring Festival,scaled interval score,-0.037112306107653516,-0.05844704026907609,-0.013455627332297536,7
+C4 ACI level=global update=hour gamma=0.02,C3 static (no adaptation),normal,coverage,-0.017310078085090858,-0.027880700181644624,-0.006886570500408141,47
+C4 ACI level=global update=hour gamma=0.02,C3 static (no adaptation),normal,scaled interval score,-0.004183640530406698,-0.009682567041510638,0.002172618676849042,47
+C4 ACI level=global update=hour gamma=0.02,C3 + recent widening (Step 4),all test,coverage,-0.003326296935968784,-0.011095619043049959,0.004787348877374775,54
+C4 ACI level=global update=hour gamma=0.02,C3 + recent widening (Step 4),all test,scaled interval score,-0.046694923961842195,-0.0670870558467425,-0.027581027133491153,54
+C4 ACI level=global update=hour gamma=0.02,C3 + recent widening (Step 4),Spring Festival,coverage,-0.03438810757463607,-0.049347705403404885,-0.01964594127806563,7
+C4 ACI level=global update=hour gamma=0.02,C3 + recent widening (Step 4),Spring Festival,scaled interval score,-0.051895910951076776,-0.08881879279976539,-0.014228769990034881,7
+C4 ACI level=global update=hour gamma=0.02,C3 + recent widening (Step 4),normal,coverage,0.0008222043834683403,-0.006930691733177686,0.00887877797317849,47
+C4 ACI level=global update=hour gamma=0.02,C3 + recent widening (Step 4),normal,scaled interval score,-0.05002476452485226,-0.07460064826308543,-0.027411714680466007,47
+C4 ACI level=zone update=day gamma=0.2,C3 static (no adaptation),all test,coverage,-0.008395701400882747,-0.01854090705558754,0.0014401626367299893,54
+C4 ACI level=zone update=day gamma=0.2,C3 static (no adaptation),all test,scaled interval score,-0.11630496048864791,-0.1413091918360493,-0.09199628047751378,54
+C4 ACI level=zone update=day gamma=0.2,C3 static (no adaptation),Spring Festival,coverage,-0.017086109055020973,-0.03697955218356773,-3.08413520848754e-05,7
+C4 ACI level=zone update=day gamma=0.2,C3 static (no adaptation),Spring Festival,scaled interval score,-0.07716379049392204,-0.13185906683046023,-0.03232444756185873,7
+C4 ACI level=zone update=day gamma=0.2,C3 static (no adaptation),normal,coverage,-0.010056192074728161,-0.0209702158500241,0.0008516116436575184,47
+C4 ACI level=zone update=day gamma=0.2,C3 static (no adaptation),normal,scaled interval score,-0.12500903120737947,-0.15302882344925434,-0.09709954905282302,47
+C4 ACI level=zone update=day gamma=0.2,C3 + recent widening (Step 4),all test,coverage,0.005761050342224781,0.0012869410861638842,0.010382784014584532,54
+C4 ACI level=zone update=day gamma=0.2,C3 + recent widening (Step 4),all test,scaled interval score,-0.15515011805739778,-0.18710195223072257,-0.12578313349037046,54
+C4 ACI level=zone update=day gamma=0.2,C3 + recent widening (Step 4),Spring Festival,coverage,-0.011195410806809771,-0.01983098939057488,-0.003608438193930422,7
+C4 ACI level=zone update=day gamma=0.2,C3 + recent widening (Step 4),Spring Festival,scaled interval score,-0.0919473953373453,-0.16751519299691522,-0.03212802429213826,7
+C4 ACI level=zone update=day gamma=0.2,C3 + recent widening (Step 4),normal,coverage,0.008076090393831035,0.00319839605827119,0.012793151519828846,47
+C4 ACI level=zone update=day gamma=0.2,C3 + recent widening (Step 4),normal,scaled interval score,-0.17085015520182503,-0.2041004637063547,-0.13729759605274824,47
+C4 ACI level=zone update=hour gamma=0.005,C3 static (no adaptation),all test,coverage,-0.0021628925989893174,-0.010499424294761082,0.0056631004925478045,54
+C4 ACI level=zone update=hour gamma=0.005,C3 static (no adaptation),all test,scaled interval score,-0.15199656796220434,-0.17507654643082046,-0.1297675342091825,54
+C4 ACI level=zone update=hour gamma=0.005,C3 static (no adaptation),Spring Festival,coverage,0.0012028127313101406,-0.015823155687145325,0.01681007895386133,7
+C4 ACI level=zone update=hour gamma=0.005,C3 static (no adaptation),Spring Festival,scaled interval score,-0.10070201662710125,-0.14732102308973327,-0.05801016047098647,7
+C4 ACI level=zone update=hour gamma=0.005,C3 static (no adaptation),normal,coverage,-0.004797003089347831,-0.01367362769403224,0.004222462486245099,47
+C4 ACI level=zone update=hour gamma=0.005,C3 static (no adaptation),normal,scaled interval score,-0.16229803083422226,-0.18790224184278878,-0.13742549698806922,47
+C4 ACI level=zone update=hour gamma=0.005,C3 + recent widening (Step 4),all test,coverage,0.011993859144118211,0.007036097518070748,0.01697540859080151,54
+C4 ACI level=zone update=hour gamma=0.005,C3 + recent widening (Step 4),all test,scaled interval score,-0.1908417255309542,-0.2236674747003778,-0.16170568009572622,54
+C4 ACI level=zone update=hour gamma=0.005,C3 + recent widening (Step 4),Spring Festival,coverage,0.007093510979521342,-0.0006476683937823834,0.01421786331112756,7
+C4 ACI level=zone update=hour gamma=0.005,C3 + recent widening (Step 4),Spring Festival,scaled interval score,-0.11548562147052449,-0.18527537833726093,-0.05903039961333276,7
+C4 ACI level=zone update=hour gamma=0.005,C3 + recent widening (Step 4),normal,coverage,0.013335279379211366,0.007730113965491583,0.019248884579431146,47
+C4 ACI level=zone update=hour gamma=0.005,C3 + recent widening (Step 4),normal,scaled interval score,-0.20813915482866777,-0.24297906122779753,-0.17518925748313727,47

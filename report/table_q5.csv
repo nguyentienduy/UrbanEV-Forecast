@@ -1,0 +1,16 @@
+column_name,column_type,min,max,approx_unique,null_percentage
+zone,BIGINT,102,1173,265,0.0
+ts,TIMESTAMP,2022-09-01 00:00:00,2023-02-28 23:00:00,4884,0.0
+volume,DOUBLE,0.0,16732.5,68683,0.0
+occupancy,DOUBLE,0.0,373.0,313,0.0
+e_price,DOUBLE,0.23806,1.8,1147,0.0
+s_price,DOUBLE,0.0,1.45,1404,0.0
+T,DOUBLE,8.3,34.7,233,0.0
+U,BIGINT,21,97,78,0.0
+nRAIN,BIGINT,0,3,4,0.0
+rain,BIGINT,0,1,2,0.0
+holiday,BIGINT,0,1,2,0.0
+festival,BIGINT,0,1,2,0.0
+hour,INTEGER,0,23,24,0.0
+dow,INTEGER,0,6,7,0.0
+piles,BIGINT,4,373,121,0.0

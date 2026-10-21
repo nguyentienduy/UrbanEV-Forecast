@@ -1,0 +1,16 @@
+,dtype,missing_pct,unique,example
+zone,int64,0.0,275,102
+ts,datetime64[us],0.0,4344,2022-09-01 00:00:00
+volume,float64,0.0,59653,56.29166666666666
+occupancy,float64,0.0,309,17.0
+e_price,float64,0.0,1121,0.924
+s_price,float64,0.0,1722,0.8560000000000001
+T,float64,0.0,249,27.3
+U,int64,0.0,76,87
+nRAIN,int64,0.0,4,0
+rain,int64,0.0,2,0
+holiday,int64,0.0,2,0
+festival,int64,0.0,2,0
+hour,int32,0.0,24,0
+dow,int32,0.0,7,3
+piles,int64,0.0,123,30

@@ -1,0 +1,8 @@
+step,value
+zone-hours,1194600
+zones,275
+missing cells,0
+zones with a complete hourly grid,275
+non-negative volume,1194600
+holiday hours per zone,480
+rainy hours per zone,372

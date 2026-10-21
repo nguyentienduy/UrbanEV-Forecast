@@ -1,0 +1,6 @@
+,0
+reference_MAE,49.103503173042064
+best_model,Extra Trees
+best_MAE,47.27180738230864
+improvement_pct,3.730275178694442
+verdict,SMALL: report the reference as a strong baseline and move the contribution to RQ3
